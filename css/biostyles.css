@@ -1,0 +1,23 @@
+h1{
+	color: navy;
+	text-align: center;
+}
+h2{
+	color: blue;
+	text-align: center;
+}
+p{
+	color: purple;
+	text-align: center;
+}
+img{
+	align-items: center;
+	border: solid green 5px;
+}
+link{
+	align-items: center;
+}
+a{
+	align-items: center;
+	text-align: center;
+}

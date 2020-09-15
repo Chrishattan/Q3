@@ -1,0 +1,10 @@
+ol{
+	list-style-type: none; 
+}
+h1{
+	color: red;
+	border-bottom: black solid 3px; 
+}
+h2{
+	color: blue;
+}
