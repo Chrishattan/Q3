@@ -1,3 +1,7 @@
+.wrapper{
+	max-width: 80%;
+	margin: 0 auto;
+}
 img {
 	border: 2px dashed green;
 	width: 300px;
@@ -5,12 +9,13 @@ img {
 p{
 	text-align: center;
 	font-size: 25px;
+	color: grey;
 }
 h1{
 	text-align: center;
 }
 h2{
-	color: blue;
+	color: red;
 }
 ol{
 	text-align: center;
@@ -24,4 +29,7 @@ li{
 }
 title{
 	text-align: center;
+}
+body{
+	background-color: blue;
 }

@@ -1,3 +1,7 @@
+.wrapper{
+	max-width:80%;
+	margin: 0 auto; 
+}
 h1{
 	color: navy;
 	text-align: center;
@@ -12,12 +16,16 @@ p{
 }
 img{
 	align-items: center;
-	border: solid green 5px;
+	border: dashed red 5px;
 }
 link{
 	align-items: center;
+	color:blue;
 }
 a{
 	align-items: center;
 	text-align: center;
+}
+body{
+	background-color: green;
 }
