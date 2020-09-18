@@ -1,0 +1,14 @@
+#wrapper{
+	margin: 0 auto;
+	max-width: 90%;
+	background-color: blue;
+}
+ul{
+	list-style-type: none;
+}
+a{
+	color: lightgreen;
+}
+h1{
+	color: navy;
+}
