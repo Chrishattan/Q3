@@ -12,3 +12,8 @@ a{
 h1{
 	color: navy;
 }
+img{
+	max-height:200px;
+	max-width:200px;
+	border: grey solid 4px;
+}
