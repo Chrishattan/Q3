@@ -14,18 +14,16 @@ p{
 	color: purple;
 	text-align: center;
 }
-img{
-	align-items: center;
-	border: dashed red 5px;
-}
-link{
-	align-items: center;
-	color:blue;
-}
 a{
 	align-items: center;
 	text-align: center;
+	color: 
 }
 body{
 	background-color: green;
+}
+img{
+	max-width: 150px;
+	align-items: center;
+	border: dashed red 5px;
 }
