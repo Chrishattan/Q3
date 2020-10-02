@@ -18,17 +18,11 @@ img{
 	max-width:200px;
 	border: grey solid 4px;
 }
-#one{
+.one{
 	background-color: red;
 }
-#two{
+.two{
  	background-color: darkgreen;
-}
-#three{
-	background-color: red;
-}
-#four{
-	background-color: darkgreen;
 }
 p{
 	color: navy;
