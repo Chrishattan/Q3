@@ -41,16 +41,50 @@
     height: 10px;
     width: 100px;
 }
-#bottomrow{
-	height:110;
+.left{
+	float:left;
 }
-#middledivder{
+#bottomrow{
+	height:100px;
+}
+#middlerow{
+	height:10px;
+	width: 400px;
+}
+#middledivider{
 	height: 10px;
 	width: 400px;
-	background-color: black;
 }
 #topleftcolumn{
-	width:100;
-	height:140;
-
+	width:100px;
+	height:140px;
 }
+#bleft{
+	width: 100px;
+	height:100px;
+}
+#bvborder1{
+	height: 100px;
+	width: 10px;
+}
+#bottommid{
+	height: 100px; 
+	width: 260px;
+}
+#bottomleftcolumn{
+	height: 100px;
+	width:20px;
+}
+#boxcol1{
+	width:20px; 
+	height:45px;
+}
+#coldiv{
+	height:10px; 
+	width:20px;
+}
+#boxcol2{
+	width: 20px;
+	height:45px;
+}
+
