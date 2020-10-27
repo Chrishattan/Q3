@@ -10,6 +10,9 @@
 .left{
 	float:left;
 }
+.right{
+	float: right; 
+}
 .color1{
 	background-color:#74994E;
 }
@@ -43,6 +46,10 @@
 	width:80px;
 	height: 100px;
 }
+#divthing1{
+	width: 80px;
+	height: 10px;
+}
 #onebox3{
 	width: 200px;
 	height:100px;
@@ -52,7 +59,7 @@
 	height:10px;
 }
 #twodiv{
-	width: 300px;
+	width: 200px;
 	height: 10px;
 }
 #threebox1{
